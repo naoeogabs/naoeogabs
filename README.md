@@ -1,5 +1,5 @@
 ## epa, comiiing 🌱
-## estudante do aluna de forma nada obr
+## estudante do alura de forma nada obrig
 
 <!--
 **naoeogabs/naoeogabs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
